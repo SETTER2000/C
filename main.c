@@ -53,6 +53,7 @@ void farToCels300ToZero(void) {
     }
 }
 
+
 int main(void) {
     farToCels();
     celsToFar();
